@@ -1,4 +1,3 @@
-layout_spectrum: 0.0008601134177297354
 typography_spectrum: 0.41326219006441534
 color:
   brandStrength: 0.9659727257676423
@@ -11,4 +10,6 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.0008601134177297354
 name: gprasant
+title: Public posts
